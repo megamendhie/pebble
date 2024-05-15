@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">MyFarm</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="txt_search_bar">Enter the farmer\'s name</string>
+    <string name="txt_no_farmers">No farmers registered</string>
+    <string name="txt_no_farmer_extended">You have not added any farmer yet. Click the Add Farmer button to register and farmer</string>
+    <string name="txt_profile_picture">profile picture</string>
+    <string name="txt_rice">Rice</string>
+
+
+    <string-array name="crops">
+        <item>Select crop</item>
+        <item>Cassava</item>
+        <item>Maize</item>
+        <item>Rice</item>
+        <item>Yam</item>
+        <item>Millet</item>
+        <item>Groundnut</item>
+        <item>Beans</item>
+        <item>Plantain</item>
+        <item>Banana</item>
+        <item>Pineapple</item>
+    </string-array>
+</resources>

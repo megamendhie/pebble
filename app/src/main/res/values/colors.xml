@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="color_primary">#388E3C</color>
+    <color name="primary_dark">#226D29</color>
+    <color name="teal_700">#FF018786</color>
+
+    <color name="sec_50">#96A397</color>
+    <color name="sec_80">#344335</color>
+    <color name="text_sec_50">#2B8C34</color>
+    <color name="chip_border">#DDE2DE</color>
+    <color name="card_desc">#ECEFEC</color>
+    <color name="color_text_grey">#848484</color>
+    <color name="color_error">#B92043</color>
+
+    <color name="info">#E7FBFE</color>
+    <color name="on_info">#004C92</color>
+    <color name="sec5">#DBFFDF</color>
+    <color name="on_sec5">#1D5D23</color>
+
+    <color name="md_theme_primary">#2B8C34</color>
+    <color name="md_theme_onPrimary">#FFFFFF</color>
+    <color name="md_theme_primaryContainer">#BCF0B4</color>
+    <color name="md_theme_onPrimaryContainer">#002204</color>
+    <color name="md_theme_secondary">#52634F</color>
+    <color name="md_theme_onSecondary">#FFFFFF</color>
+</resources>
